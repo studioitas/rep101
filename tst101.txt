@@ -1,0 +1,41 @@
+
+
+1. Создать репозиторий rep101
+2. DВ папке проекта инициировать git
+git init
+3. Создать README.md файл в папке проекта
+echo "# rep101" >> README.md
+
+git add README.md
+
+4. Указать все файлы для коммита
+git add -A
+5. Создаем коммит
+git commit -m "tst101"
+6. ??????????????????????? исче что-то
+git branch -M main
+7. Указываем удаленный репозиторий rep101.git командой
+git remote add origin https://github.com/studioitas/rep101.git
+8. Копируем файлы из проекта в репозиторий командой
+git push -u origin main
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
